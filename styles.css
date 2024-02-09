@@ -14,7 +14,7 @@
 }
 
 .orange {
-  background-color: orange;
+  background-color: rgb(255, 0, 0);
 }
 
 .max-w-lg {
@@ -43,7 +43,7 @@
 
 .hover-scale:hover {
   scale: 1.5;
-  background-color: orange;
+  background-color: rgb(255, 165, 0);
 }
 
 .click-scale {
